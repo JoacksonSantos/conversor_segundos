@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IVi0nTZtd/vQmmnHgdG6ucZQIJcrgWEWYkegtsrI9yhFZQkFSRayLkJw/Te5cXq3ZtkxUL3Etv6XPCF3s/gocQ==",
+  "success": true,
+  "projectFilePath": "/home/joackson/Documents/git/conversor_de_segundos/conversor_de_segundos.csproj",
+  "expectedPackageFiles": [
+    "/home/joackson/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
